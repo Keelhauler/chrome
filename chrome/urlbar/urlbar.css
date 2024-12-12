@@ -1,0 +1,15 @@
+
+#urlbar-container
+{
+	max-height: 36px !important;
+}
+
+#urlbar,
+#searchbar
+{
+	margin: 0 !important;
+	top: 0px !important;
+	color: inherit !important;
+}
+
+#navigator-toolbox { border-bottom: 0px !important; }

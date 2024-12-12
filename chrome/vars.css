@@ -1,0 +1,7 @@
+:root {
+  --toolbar-height          : 0;
+  --menubar-height          : -40px;
+  --toolmenubar-height      : -40px;    /* sum of previous two */
+  --shadow-color            : #00000000;  /* shadow color. set to #00000000 for no shadow. same as folder color from hntp and tab-hover color from tst*/
+  --sidebar-background-color: #31313a;
+}
